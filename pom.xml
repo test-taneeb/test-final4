@@ -58,7 +58,7 @@
   		<sonar.organization>test-taneeb</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
   <!-- Disable SonarQube analysis during CI builds -->
-  		<sonar.skip>true</sonar.skip>
+  		<sonar.skip>true</sonar.skip> 
 	</properties>
 
 	 <build>
